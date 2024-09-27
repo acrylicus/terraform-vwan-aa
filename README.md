@@ -6,4 +6,4 @@
 > [!IMPORTANT]
 > No default route is required as it picks this up from DHCP
 
-![overview](./img/Overiew.png)
+![overview](./img/Overview.png)
