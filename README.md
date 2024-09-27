@@ -6,4 +6,4 @@
 > [!NOTE] Default Route
 > No default route is required as it picks this up from DHCP
 
-![overview](src/Overiew.png)
+![overview](img/Overiew.png)
